@@ -1,0 +1,10 @@
+.navigation {
+  margin: 0 auto; 
+}
+
+.navigation li {
+  border: 2px solid black;
+  color: black;
+  text-align: center;
+  margin: 10% auto;
+}
