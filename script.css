@@ -1,3 +1,7 @@
+* {
+ font-family:  'Acme', sans-serif;
+}
+
 .nav {
   height: 30px;
   width: 100%;
